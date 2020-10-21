@@ -7,3 +7,5 @@
     puts "Buzz"
   else
     puts i
+  end
+end
